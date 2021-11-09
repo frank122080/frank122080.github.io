@@ -1,0 +1,1 @@
+{"version":3,"sources":["contents/LoginOption1.js"],"names":["loginOption1"],"mappings":"6IAQeA,UARM,WACnB,OACE","file":"static/js/4.a79f6c25.chunk.js","sourcesContent":["const loginOption1 = () => {\r\n  return (\r\n    <div>\r\n      loginOption1\r\n    </div>\r\n  )\r\n}\r\n\r\nexport default loginOption1\r\n"],"sourceRoot":""}

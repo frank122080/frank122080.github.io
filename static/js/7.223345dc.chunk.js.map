@@ -1,0 +1,1 @@
+{"version":3,"sources":["contents/Option2.js"],"names":["Option2"],"mappings":"6IAMeA,UANC,kBACd","file":"static/js/7.223345dc.chunk.js","sourcesContent":["const Option2 = () => (\r\n  <div>\r\n    Option2\r\n  </div>\r\n)\r\n\r\nexport default Option2\r\n"],"sourceRoot":""}

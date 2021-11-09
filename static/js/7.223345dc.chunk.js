@@ -1,0 +1,2 @@
+(this["webpackJsonparchetype-react"]=this["webpackJsonparchetype-react"]||[]).push([[7],{516:function(t,e,c){"use strict";c.r(e);var r=c(11);e.default=function(){return Object(r.jsx)("div",{children:"Option2"})}}}]);
+//# sourceMappingURL=7.223345dc.chunk.js.map
